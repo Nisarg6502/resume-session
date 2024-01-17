@@ -24,6 +24,8 @@ This repository contains resources and materials for the engaging workshop on cr
 - 🔗 [ResumeWorded](https://resumeworded.com/) : Resume Feedback Tool
 - 🔗 [TexWorks](https://www.tug.org/texworks/) : LaTeX GUI
 - 🔗 [MIT Guide](https://capd.mit.edu/channels/make-a-resume-cover-letter-cv/) : MIT Resume, Cover Letter Guide
+- 🔗 [LaTeX Tutorial](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) : OverLeaf LaTeX tutorial in 30 minutes
+- 🔗 [LaTeX Course](https://spoken-tutorial.org/watch/LaTeX/LaTeX+on+Windows+using+TeXworks/English/) : Spoken Tutorial LaTeX Course
 
 ---
 
