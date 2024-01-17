@@ -19,12 +19,11 @@ This repository contains resources and materials for the engaging workshop on cr
 - 📁 **resume-templates**: Sample resume templates
 - 📁 **resources**: Links to online articles, videos, and additional career development resources.
 
-## How to Use
-
-1. 👀 Explore the folders to find the materials you're interested in.
-2. 📄 Download resume templates from the `resume-templates` folder.
-3. 🖥️ View presentation slides in the `slides` folder.
-4. 📝 Follow scripts for a detailed understanding of the narrative approach.
+## Resources
+- 🔗 [Overleaf](https://www.overleaf.com/) : Online LaTex Editor
+- 🔗 [ResumeWorded](https://resumeworded.com/) : Resume Feedback Tool
+- 🔗 [TexWorks](https://www.tug.org/texworks/) : LaTeX GUI
+- 🔗 [](https://capd.mit.edu/channels/make-a-resume-cover-letter-cv/) : MIT Resume, Cover Letter Guide
 
 ---
 
