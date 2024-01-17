@@ -23,7 +23,7 @@ This repository contains resources and materials for the engaging workshop on cr
 - 🔗 [Overleaf](https://www.overleaf.com/) : Online LaTex Editor
 - 🔗 [ResumeWorded](https://resumeworded.com/) : Resume Feedback Tool
 - 🔗 [TexWorks](https://www.tug.org/texworks/) : LaTeX GUI
-- 🔗 [](https://capd.mit.edu/channels/make-a-resume-cover-letter-cv/) : MIT Resume, Cover Letter Guide
+- 🔗 [MIT Guide](https://capd.mit.edu/channels/make-a-resume-cover-letter-cv/) : MIT Resume, Cover Letter Guide
 
 ---
 
